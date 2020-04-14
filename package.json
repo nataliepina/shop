@@ -21,11 +21,9 @@
     "scss": "^0.2.4"
   },
   "devDependencies": {
-    "babel-jest": "^25.2.6",
     "react-scripts": "3.0.1"
   },
   "resolutions": {
-    "babel-jest": "24.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
