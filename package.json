@@ -1,5 +1,6 @@
 {
-  "name": "test",
+  "name": "shop",
+  "description": "React and Redux Shop - Natalie Pina",
   "version": "1.0.0",
   "engines": {
     "node": "13.2.0"
@@ -23,8 +24,7 @@
   "devDependencies": {
     "react-scripts": "3.0.1"
   },
-  "resolutions": {
-  },
+  "resolutions": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
