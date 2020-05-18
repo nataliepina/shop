@@ -5,7 +5,7 @@ export const googleSignInStart = () => ({
 });
 
 export const signInSuccess = (user) => ({
-    types: UserActionTypes.SIGN_IN_SUCCESS,
+    type: UserActionTypes.SIGN_IN_SUCCESS,
     payload: user
 });
 
